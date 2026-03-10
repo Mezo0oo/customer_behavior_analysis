@@ -115,7 +115,7 @@ The analysis helped identify:
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/project-name.git
+git clone [https://github.com/Mezo0oo/customer_behavior_analysis]
 ```
 
 2. Open the Python notebook
